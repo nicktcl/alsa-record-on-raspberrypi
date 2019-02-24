@@ -20,7 +20,7 @@
 
 1、需要先安装“libasound2”库
 ```linux
-		sudo apt-get install libasound2-dev
+sudo apt-get install libasound2-dev
 ```
 2、编译：
 ```linux
