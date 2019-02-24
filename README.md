@@ -11,6 +11,7 @@
 
 ## 使用方法：
 将以上代码保存为“alsa-record-on-raspberrypi.c”，然后在linux终端上运行以下命令。
+
 1、需要先安装“libasound2”库
 ```linux
 		sudo apt-get install libasound2-dev
